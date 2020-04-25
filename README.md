@@ -3,6 +3,6 @@ Done it ourselves and not sure if everything is correct. Hopefully it helps a bi
 
 Have fun with coding!
 
-Covered concepts
-* Richardson iteration (Jacobi, Gauss_Seicdel and SOR)
+Covered concepts:
+* Richardson iteration (Jacobi, Gauss_Seicdel & SOR)
 * Steepest descent & Conjugate gradient descent
