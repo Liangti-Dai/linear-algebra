@@ -1,4 +1,4 @@
-# Solutions to problem 5 and 6 of Iterative methods for linear-algebra 
+# Solutions for Iterative methods for solving linear systems
 Done it ourselves and not sure if everything is correct. Hopefully it helps a bit:) 
-Sorry about the messy format....
+
 Have fun with coding!
